@@ -8,10 +8,8 @@ body {
     padding: 0;
 }
 
-}
-
 .header_text {
-    font-family: 'Nunito';
+    font-family: 'Nunito', sans-serif;
     font-size: 50px;
     font-weight: bold;
     color: white;
@@ -24,4 +22,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.small_photo {
+    max-width: 300px;
+    height: auto;
 }
