@@ -7,14 +7,12 @@ body {
     margin: 0; /* Ensure there's no margin */
     padding: 0; /* Ensure there's no padding */
 }
-
 #noButton {
     position: absolute;
     margin-left: 150px;
     margin-right: -20px; /* Move the button slightly to the right */
     transition: 0.5s;
 }
-
 #yesButton {
     position: absolute;
     margin-right: 150px;
